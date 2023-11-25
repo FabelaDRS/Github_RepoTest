@@ -22,7 +22,7 @@ namespace FabelaExam.Api.Controllers.V1
         {
             _user = user;
         }
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<IActionResult> Get([FromQuery] PaginationFilter filter)
         {
@@ -38,7 +38,7 @@ namespace FabelaExam.Api.Controllers.V1
             return ApiHelpers.MappingResponse(response, "1.0");
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] UserRequest request)
         {
@@ -46,7 +46,7 @@ namespace FabelaExam.Api.Controllers.V1
             return ApiHelpers.MappingResponse(response, "1.0");
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpPut]
         public async Task<IActionResult> Put([FromBody] UserRequest request)
         {
@@ -54,7 +54,7 @@ namespace FabelaExam.Api.Controllers.V1
             return ApiHelpers.MappingResponse(response, "1.0");
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpDelete]
         public async Task<IActionResult> Delete(int userId)
         {
