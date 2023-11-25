@@ -1,0 +1,17 @@
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Business.deps.json
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Business.dll
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Business.pdb
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Models.dll
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Models.pdb
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.csproj.AssemblyReference.cache
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.AssemblyInfoInputs.cache
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.AssemblyInfo.cs
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.csproj.CoreCompileInputs.cache
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.csproj.CopyComplete
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.dll
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\refint\FabelaExam.Business.dll
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.pdb
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\ref\FabelaExam.Business.dll
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\bin\Debug\net7.0\FabelaExam.Business.runtimeconfig.json
+C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Business\obj\Debug\net7.0\FabelaExam.Business.genruntimeconfig.cache

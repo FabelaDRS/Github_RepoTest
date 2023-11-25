@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabelaExam.Api", "FabelaExam.Api\FabelaExam.Api.csproj", "{1332EAB8-6B1C-4505-A75F-877236706174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabelaExam.Business", "FabelaExam.Business\FabelaExam.Business.csproj", "{EA562684-677E-47C3-8C66-5378361D6C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabelaExam.Models", "FabelaExam.Models\FabelaExam.Models.csproj", "{7B10A72D-80A4-423C-8C4F-85D0B20424D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1332EAB8-6B1C-4505-A75F-877236706174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1332EAB8-6B1C-4505-A75F-877236706174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1332EAB8-6B1C-4505-A75F-877236706174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1332EAB8-6B1C-4505-A75F-877236706174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA562684-677E-47C3-8C66-5378361D6C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA562684-677E-47C3-8C66-5378361D6C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA562684-677E-47C3-8C66-5378361D6C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA562684-677E-47C3-8C66-5378361D6C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B10A72D-80A4-423C-8C4F-85D0B20424D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B10A72D-80A4-423C-8C4F-85D0B20424D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B10A72D-80A4-423C-8C4F-85D0B20424D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B10A72D-80A4-423C-8C4F-85D0B20424D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679E98F2-B340-440D-AF9A-0D1EF9C386F3}
+	EndGlobalSection
+EndGlobal
