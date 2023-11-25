@@ -7,7 +7,19 @@
 	},
 	"item": [
 		{
-			"name": "api/v1/Authorizer/auth",
+			"name": "01- api/v1/Authorizer/auth",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var json = JSON.parse(responseBody);\r",
+							"pm.environment.set(\"token\", `Bearer ${json.content.auth.token}`);"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -38,20 +50,16 @@
 			"response": []
 		},
 		{
-			"name": "api/v1/User",
+			"name": "02 - api/v1/User",
 			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwibmJmIjoxNzAwOTA2MjY1LCJleHAiOjE3MDA5MDYzMjUsImlhdCI6MTcwMDkwNjI2NX0.QwTkkl8ejg3jZBvCkAfzeNl6exrw-c5wp_6Hoo_5_U0",
-							"type": "string"
-						}
-					]
-				},
 				"method": "POST",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{token}}",
+						"type": "text"
+					}
+				],
 				"body": {
 					"mode": "raw",
 					"raw": "{\r\n  \"userId\": 0,\r\n  \"firstName\": \"Silvia\",\r\n  \"lastName\": \"Aguilar\",\r\n  \"email\": \"Silvia85@gmail.com\",\r\n  \"age\": 26,\r\n  \"userName\": \"Silvia85\",\r\n  \"accessCode\": \"UserOwn.2023\",\r\n  \"isActive\": true\r\n}",
@@ -78,10 +86,16 @@
 			"response": []
 		},
 		{
-			"name": "api/v1/User",
+			"name": "03 - api/v1/User",
 			"request": {
 				"method": "PUT",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{token}}",
+						"type": "text"
+					}
+				],
 				"body": {
 					"mode": "raw",
 					"raw": "{\r\n  \"userId\": 7,\r\n  \"firstName\": \"Patricia\",\r\n  \"lastName\": \"Hernandez\",\r\n  \"email\": \"Paty.45@gmail.com\",\r\n  \"age\": 26,\r\n  \"userName\": \"Paty45\",\r\n  \"accessCode\": \"UserQA.2023\",\r\n  \"isActive\": true\r\n}",
@@ -108,10 +122,16 @@
 			"response": []
 		},
 		{
-			"name": "User?userId=2",
+			"name": "04 - User?userId=2",
 			"request": {
 				"method": "DELETE",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{token}}",
+						"type": "text"
+					}
+				],
 				"url": {
 					"raw": "https://localhost:7188/api/v1/User?userId=2",
 					"protocol": "https",
@@ -135,20 +155,16 @@
 			"response": []
 		},
 		{
-			"name": "api/v1/User",
+			"name": "05 - api/v1/User",
 			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwibmJmIjoxNzAwOTA3NDU5LCJleHAiOjE3MDA5MDc3NTksImlhdCI6MTcwMDkwNzQ1OX0.j1vWu4w5rHlf2j1fy8en0EtP5ExKTg5Suzkt367gry4",
-							"type": "string"
-						}
-					]
-				},
 				"method": "GET",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{token}}",
+						"type": "text"
+					}
+				],
 				"url": {
 					"raw": "https://localhost:7188/api/v1/User?PageNumber=1&PageSize=2",
 					"protocol": "https",
@@ -176,20 +192,16 @@
 			"response": []
 		},
 		{
-			"name": "api/v1/User/user/7",
+			"name": "06 - api/v1/User/user/7",
 			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwibmJmIjoxNzAwOTA3NDU5LCJleHAiOjE3MDA5MDc3NTksImlhdCI6MTcwMDkwNzQ1OX0.j1vWu4w5rHlf2j1fy8en0EtP5ExKTg5Suzkt367gry4",
-							"type": "string"
-						}
-					]
-				},
 				"method": "GET",
-				"header": [],
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{token}}",
+						"type": "text"
+					}
+				],
 				"url": {
 					"raw": "https://localhost:7188/api/v1/User/user/7",
 					"protocol": "https",
