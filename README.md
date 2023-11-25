@@ -12,7 +12,7 @@ Parte 1: Backend (.NET Core C# 7 o Posterior)
 7. Volver a compilar y ejecutar.
 
 Bonus:
-Nota: Actualmente los metodos del controlador de usuario requieren Token por lo que se debera generar el Token siguiendo estos pasos:
+Importante: Actualmente los metodos del controlador de usuario requieren Token por lo que se debera generar el Token siguiendo estos pasos:
 1. Ejecutar el metodo en postman => api/v1/Authorizer/auth
    El request lleva usuario por defaul, que fue creado previamente al ejecutar los scripts de BD.
 2. Ya que se aya importado los archivos en Postman, cuando desee consumir un metodo desde postman, no olvide seleccionar el Environment [FabelaExam] en postman   
@@ -22,6 +22,9 @@ Nota: Actualmente los metodos del controlador de usuario requieren Token por lo 
    [Get] api/v1/User
    [Get] api/v1/User/user/7
    [Delete] api/v1/User?userId=2
+   
+El token tiene una duracion de 5 minutos, se guarda un historial del token  en la tabla tbl_AuthorizerUser si desea consultarlo.
  
 Nota: Si no desea consumir los  metodos con autenticacion, en el codigo del controllador de usuario, commente la linea [ [Authorize] ] y 
-vueva a ejecutar el api. 
+vueva a ejecutar el api.
+ 
