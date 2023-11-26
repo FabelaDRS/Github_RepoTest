@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32jxrIQKe6vnHSyr+n3eY4bGeVkQ6XkszIQpbCEDbsPQuGh3ii5yQnD1A4HXVCMrlmU4CEPzi1A4nzbsD+juVg==",
+  "dgSpecHash": "pd+BJhrL86ud+xDRyrB/S+nT+9N0TC4WkfQYYKLy47F21yGJu/K+0luewTMveNVGPvYlaHhhg3272NNIu6ibKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
+  "projectFilePath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

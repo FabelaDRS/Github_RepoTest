@@ -9,3 +9,14 @@ C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\Fab
 C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\refint\FabelaExam.Models.dll
 C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.pdb
 C:\Users\diros\OneDrive\Documentos\03-DrsProjects\Exam_Fabela\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\ref\FabelaExam.Models.dll
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\bin\Debug\net7.0\FabelaExam.Models.deps.json
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\bin\Debug\net7.0\FabelaExam.Models.dll
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\bin\Debug\net7.0\FabelaExam.Models.pdb
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.AssemblyInfoInputs.cache
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.AssemblyInfo.cs
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.csproj.CoreCompileInputs.cache
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.dll
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\refint\FabelaExam.Models.dll
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\FabelaExam.Models.pdb
+C:\Users\diros\OneDrive\Documentos\Github_RepoTest\FabelaExam.Api\FabelaExam.Models\obj\Debug\net7.0\ref\FabelaExam.Models.dll

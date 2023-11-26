@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj": {}
+    "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj": {
+    "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj",
+        "projectUniqueName": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj",
         "projectName": "FabelaExam.Business",
-        "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj",
+        "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Business\\FabelaExam.Business.csproj",
         "packagesPath": "C:\\Users\\diros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Business\\obj\\",
+        "outputPath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj": {
-                "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj"
+              "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj": {
+                "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj": {
+    "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
+        "projectUniqueName": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
         "projectName": "FabelaExam.Models",
-        "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
+        "projectPath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\FabelaExam.Models.csproj",
         "packagesPath": "C:\\Users\\diros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diros\\OneDrive\\Documentos\\03-DrsProjects\\Exam_Fabela\\FabelaExam.Api\\FabelaExam.Models\\obj\\",
+        "outputPath": "C:\\Users\\diros\\OneDrive\\Documentos\\Github_RepoTest\\FabelaExam.Api\\FabelaExam.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
